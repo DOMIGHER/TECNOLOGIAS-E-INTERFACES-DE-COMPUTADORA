@@ -1,2 +1,3 @@
 # TECNOLOGIAS-E-INTERFACES-DE-COMPUTADORA
-Códigos de Arduino
+ Recopilacion de codigos de la meteria: DP1A ARQUITECTURA DE COMPUTADORAS
+ Códigos de Arduino
